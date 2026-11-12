@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../Groffe.Pagamentos/Groffe.Pagamentos.csproj" />
+  <Project Path="ConsoleAppClosedHierarchies.csproj" />
+</Solution>
